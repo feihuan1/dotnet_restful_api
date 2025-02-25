@@ -26,3 +26,4 @@ c:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\refint\RestfuleA
 c:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\RestfuleAPI.pdb
 c:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\RestfuleAPI.genruntimeconfig.cache
 c:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\ref\RestfuleAPI.dll
+C:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\RestfuleAPI.sourcelink.json
