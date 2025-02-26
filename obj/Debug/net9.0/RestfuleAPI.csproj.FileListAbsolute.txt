@@ -27,3 +27,9 @@ c:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\RestfuleAPI.pdb
 c:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\RestfuleAPI.genruntimeconfig.cache
 c:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\ref\RestfuleAPI.dll
 C:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\RestfuleAPI.sourcelink.json
+C:\Users\pengf\Desktop\projects\cs\RestfuleAPI\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\pengf\Desktop\projects\cs\RestfuleAPI\bin\Debug\net9.0\MinimalApis.Extensions.dll
+C:\Users\pengf\Desktop\projects\cs\RestfuleAPI\bin\Debug\net9.0\MiniValidation.dll
+C:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\RestfuleAPI.csproj.AssemblyReference.cache
+C:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\RestfuleAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pengf\Desktop\projects\cs\RestfuleAPI\obj\Debug\net9.0\Restfule.CE15A1FF.Up2Date
