@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pengf\\Desktop\\projects\\cs\\RestfuleAPI\\RestfuleAPI.csproj": {}
+    "C:\\Users\\pengf\\Desktop\\projects\\cs\\RestfuleAPI\\RestfuleAPI.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pengf\\Desktop\\projects\\cs\\RestfuleAPI\\RestfuleAPI.csproj": {
+    "C:\\Users\\pengf\\Desktop\\projects\\cs\\RestfuleAPI\\RestfuleAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pengf\\Desktop\\projects\\cs\\RestfuleAPI\\RestfuleAPI.csproj",
+        "projectUniqueName": "C:\\Users\\pengf\\Desktop\\projects\\cs\\RestfuleAPI\\RestfuleAPI.csproj",
         "projectName": "RestfuleAPI",
-        "projectPath": "c:\\Users\\pengf\\Desktop\\projects\\cs\\RestfuleAPI\\RestfuleAPI.csproj",
+        "projectPath": "C:\\Users\\pengf\\Desktop\\projects\\cs\\RestfuleAPI\\RestfuleAPI.csproj",
         "packagesPath": "C:\\Users\\pengf\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pengf\\Desktop\\projects\\cs\\RestfuleAPI\\obj\\",
+        "outputPath": "C:\\Users\\pengf\\Desktop\\projects\\cs\\RestfuleAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pengf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -44,6 +44,12 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[8.0.2, )"

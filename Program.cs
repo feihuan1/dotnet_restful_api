@@ -1,5 +1,9 @@
 using RestfuleAPI.Data;
 using RestfuleAPI.Endpoints;
+// generate migration files
+// dotnet ef migrations add InitialCreate --output-dir Data\Migrations
+// excute migration
+// dotnet ef database update
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,5 +14,7 @@ var app = builder.Build();
 
 app.MapGamesEndpoints();
 
+
+app.migrateDb();
 
 app.Run();
