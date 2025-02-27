@@ -9,7 +9,7 @@ public static class GamesEndpoints
     new (
         1,
         "Street Fighter II",
-        " Fighting",
+        "Fighting",
         19.99M,
         new DateOnly(1992, 7, 15)
     ),
